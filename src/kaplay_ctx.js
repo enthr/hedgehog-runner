@@ -1,5 +1,6 @@
 import kaplay from "kaplay";
 
+// Function For Setting Up and Configuring Kaplay Context
 export const ctx = kaplay({
     width: 1920,
     height: 1080,
@@ -15,5 +16,5 @@ export const ctx = kaplay({
         }
     },
     debugKey: "d",
-    debug: (import.meta.env.VITE_NODE_ENV === "development") ? true : false
+    debug: false
 });
