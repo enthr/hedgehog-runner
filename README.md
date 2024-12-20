@@ -3,6 +3,11 @@
 An Infinite Runner Game Built With HTML Canvas, JavaScript and Kaplay.js Game Library.
 
 
+## Live Demo
+
+- [Hedgehog Runner - https://hedgehog-runner.vercel.app](https://hedgehog-runner.vercel.app)
+
+
 ## Run Locally
 
 Clone the project
