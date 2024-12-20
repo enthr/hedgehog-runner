@@ -30,6 +30,15 @@ Start the server
 ```
 
 
+## Deployment
+
+To deploy this project run below command and put the dist folder on any static website hosting platform.
+
+```bash
+  pnpm run build
+```
+
+
 ## Screenshots
 
 ### Menu
