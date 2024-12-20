@@ -5,7 +5,7 @@ An Infinite Runner Game Built With HTML Canvas, JavaScript and Kaplay.js Game Li
 
 ## Live Demo
 
-- [Hedgehog Runner - https://hedgehog-runner.vercel.app](https://hedgehog-runner.vercel.app)
+- [Hedgehog Runner - https://hedgehog-runner.netlify.app](https://hedgehog-runner.netlify.app/)
 
 
 ## Run Locally
