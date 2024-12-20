@@ -26,7 +26,7 @@ export const make_hedgehog = (position, ctx) => {
         }
     ]);
 
-    // 
+    // Configure UI To Display When Score Added
     hedgehog.ring_collect_ui = hedgehog.add([
         ctx.text("", { font: "mania", size: 24 }),
         ctx.color(255, 255, 0),
